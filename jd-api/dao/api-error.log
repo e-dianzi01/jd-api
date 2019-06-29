@@ -1,0 +1,6 @@
+[2019-06-29 10:33:51 at 32 line of __init__.py ] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where user_id=123456 and o_status='0'' at line 1")
+[2019-06-29 10:36:37 at 32 line of __init__.py ] (1054, "Unknown column 'o_shopper' in 'field list'")
+[2019-06-29 10:39:20 at 32 line of __init__.py ] (1054, "Unknown column 'user_id' in 'where clause'")
+[2019-06-29 11:33:40 at 32 line of __init__.py ] (1146, "Table 'jd_api_db.jd_shoper' doesn't exist")
+[2019-06-29 11:34:56 at 32 line of __init__.py ] (1146, "Table 'jd_api_db.jd_shoper' doesn't exist")
+[2019-06-29 11:55:24 at 32 line of __init__.py ] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from o_detail where o_user_id=3 and o_status='0'' at line 1")

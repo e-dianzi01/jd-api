@@ -1,0 +1,2 @@
+[2019-06-26 11:12:27 at 32 line of __init__.py ] (1364, "Field 'create_time' doesn't have a default value")
+[2019-06-26 11:20:22 at 32 line of __init__.py ] (1364, "Field 'activated' doesn't have a default value")

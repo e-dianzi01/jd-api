@@ -1,0 +1,77 @@
+[2019-06-26 11:12:27 at 13 line of app_user.py ] Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: a91016d5-a296-4a45-b46f-3f6b9f0c9179
+User-Agent: PostmanRuntime/7.6.0
+Accept: */*
+Host: 10.35.162.98:9001
+Accept-Encoding: gzip, deflate
+Content-Length: 58
+Connection: keep-alive
+
+
+[2019-06-26 11:12:27 at 9 line of user_dao.py ] db insert app_user_2: <disen2>
+[2019-06-26 11:12:27 at 32 line of __init__.py ] (1364, "Field 'create_timef' doesn't have a default value")
+[2019-06-26 11:12:27 at 54 line of __init__.py ] insert insert into app_user_2(login_name,login_auth_str) values(%(login_name)s,%(login_auth_str)s) ok!
+[2019-06-26 11:20:22 at 14 line of app_user.py ] Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 8f5bd221-c676-47c7-8805-45de289668e3
+User-Agent: PostmanRuntime/7.6.0
+Accept: */*
+Host: 10.35.162.98:9001
+Accept-Encoding: gzip, deflate
+Content-Length: 58
+Connection: keep-alive
+
+
+[2019-06-26 11:20:22 at 9 line of user_dao.py ] db insert app_user_2: <disen2>
+[2019-06-26 11:20:22 at 32 line of __init__.py ] (1364, "Field 'activated' doesn't have a default value")
+[2019-06-26 11:23:35 at 14 line of app_user.py ] Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 068b26d5-6011-44a8-86a7-65a2b7ca994e
+User-Agent: PostmanRuntime/7.6.0
+Accept: */*
+Host: 10.35.162.98:9001
+Accept-Encoding: gzip, deflate
+Content-Length: 58
+Connection: keep-alive
+
+
+[2019-06-26 11:23:35 at 9 line of user_dao.py ] db insert app_user_2: <disen2>
+[2019-06-26 11:23:35 at 54 line of __init__.py ] insert insert into app_user_2(login_name,login_auth_str,create_time,update_time,activated) values(%(login_name)s,%(login_auth_str)s,%(create_time)s,%(update_time)s,%(activated)s) ok!
+[2019-06-26 11:25:31 at 14 line of app_user.py ] Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: fa722660-4fee-447d-8247-afe534d21e3d
+User-Agent: PostmanRuntime/7.6.0
+Accept: */*
+Host: 10.35.162.98:9001
+Accept-Encoding: gzip, deflate
+Content-Length: 58
+Connection: keep-alive
+
+
+[2019-06-26 11:25:31 at 9 line of user_dao.py ] db insert app_user_2: <disen3>
+[2019-06-26 11:25:31 at 54 line of __init__.py ] insert insert into app_user_2(login_name,login_auth_str,create_time,update_time,activated) values(%(login_name)s,%(login_auth_str)s,%(create_time)s,%(update_time)s,%(activated)s) ok!
+[2019-06-26 11:25:37 at 14 line of app_user.py ] Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: a6dd3c3c-f8bd-42e5-896e-7b194341509f
+User-Agent: PostmanRuntime/7.6.0
+Accept: */*
+Host: 10.35.162.98:9001
+Accept-Encoding: gzip, deflate
+Content-Length: 58
+Connection: keep-alive
+
+
+[2019-06-26 11:25:37 at 9 line of user_dao.py ] db insert app_user_2: <disen3>
+[2019-06-26 11:25:37 at 54 line of __init__.py ] insert insert into app_user_2(login_name,login_auth_str,create_time,update_time,activated) values(%(login_name)s,%(login_auth_str)s,%(create_time)s,%(update_time)s,%(activated)s) ok!
+[2019-06-26 11:28:24 at 14 line of app_user.py ] Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 10255d39-ef42-4367-9cb9-7996da73e053
+User-Agent: PostmanRuntime/7.6.0
+Accept: */*
+Host: 10.35.162.98:9001
+Accept-Encoding: gzip, deflate
+Content-Length: 58
+Connection: keep-alive
+
+

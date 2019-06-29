@@ -1,0 +1,29 @@
+[2019-06-29 10:33:51 at 10 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:33:51 at 32 line of __init__.py ] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where user_id=123456 and o_status='0'' at line 1")
+[2019-06-29 10:36:37 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:36:37 at 32 line of __init__.py ] (1054, "Unknown column 'o_shopper' in 'field list'")
+[2019-06-29 10:39:20 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:39:20 at 32 line of __init__.py ] (1054, "Unknown column 'user_id' in 'where clause'")
+[2019-06-29 10:40:58 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:44:16 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:49:35 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:51:03 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:52:19 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 10:57:54 at 11 line of order_dao.py ] db insert jd_user: <123456>
+[2019-06-29 11:03:30 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 11:33:40 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 11:33:40 at 32 line of __init__.py ] (1146, "Table 'jd_api_db.jd_shoper' doesn't exist")
+[2019-06-29 11:34:56 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 11:34:56 at 32 line of __init__.py ] (1146, "Table 'jd_api_db.jd_shoper' doesn't exist")
+[2019-06-29 11:37:52 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 11:55:24 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 11:55:24 at 32 line of __init__.py ] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from o_detail where o_user_id=3 and o_status='0'' at line 1")
+[2019-06-29 11:55:41 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 12:02:18 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 12:03:50 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 12:04:24 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 13:54:12 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 13:54:36 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 13:55:05 at 11 line of order_dao.py ] db insert jd_user: <3>
+[2019-06-29 13:57:10 at 11 line of order_dao.py ] db insert jd_user: <1>
+[2019-06-29 14:31:32 at 11 line of order_dao.py ] db insert jd_user: <1>
