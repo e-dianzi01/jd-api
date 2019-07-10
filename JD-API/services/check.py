@@ -5,9 +5,7 @@ def check_login_tel(phone):
     # 查询参数
 
     if UserDao().check_login_phone(phone):
-        #print(UserDao().check_login_phone(phone))
-        # result['code'] = 300
-        # result['msg'] = '该账号已注册！'
+
         return jsonify({
         'code':300,
         'msg':'该账号已注册！'
@@ -15,11 +13,7 @@ def check_login_tel(phone):
     return jsonify({
             'code': 400,
             'msg': '账号不存在！'})
-    # else:
-    #     return jsonify({
-    #         'code': 400,
-    #         'msg': '请输入！'
-    #     })
+
 
 
 

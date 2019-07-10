@@ -1,5 +1,5 @@
 from redis import Redis
 
 rd = Redis(host='localhost',
-           port=6374, db=1)
+           port=6379, db=1)
 
